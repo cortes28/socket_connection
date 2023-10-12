@@ -1,4 +1,4 @@
-Bryan Cortes - cortes28@csu.fullerton.edu/fernanbryan28@gmail.com
+Bryan Cortes - cortes28@csu.fullerton.edu/fdcortes002@gmail.com
 Github - cortes28
 Programming language: Python
 
